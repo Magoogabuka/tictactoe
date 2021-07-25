@@ -3,7 +3,7 @@ first game, of course it has to be tictactoe.<br />
 This actually took me a long time to get perfect enough to want to post. I made this on linux, and then finished it on VScode on macOS.<br />
 If you want to run this game on windows, you will need to change the way it clears the screen.
 ```
-system("clear") = MAC
+system("clear") = MAC/LINUX
 system("cls") = WINDOWS
 ``` 
 
